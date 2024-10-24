@@ -1,3 +1,3 @@
 # Sales-tracking-app
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SudhaRatan/Sales-tracking-app)
+Created entirely by ai without writing a single line of code
